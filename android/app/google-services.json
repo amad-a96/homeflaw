@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "641983484458",
+    "project_id": "homeflaw",
+    "storage_bucket": "homeflaw.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641983484458:android:3fb0f34ca3ddfd856a2953",
+        "android_client_info": {
+          "package_name": "com.example.homeflaw"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "641983484458-dvjap27qqohvpvuk3hamda8qe2s8tcdl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSLV4w9o-4ZZN0tuUfhgfuO3tIndZVOvY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "641983484458-dvjap27qqohvpvuk3hamda8qe2s8tcdl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
